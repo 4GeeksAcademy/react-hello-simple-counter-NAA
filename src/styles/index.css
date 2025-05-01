@@ -9,3 +9,11 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+.counter{
+    background-color: white;
+    font-size: 85px;
+    padding: 50px;
+    color: black;
+    margin: 25px;
+}
